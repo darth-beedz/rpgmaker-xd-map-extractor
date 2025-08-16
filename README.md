@@ -13,9 +13,9 @@
    2) Insert a new script above "Main" called "Map Exporter". Paste this code.
    3) Edit the CONFIG section below (MAP_IDS, SCALE, etc.).
    4) Temporarily replace the contents of "Main" with the 3 lines shown in
-      the "HOW TO RUN" note underneath the config.
+      the "HOW TO RUN" note below.
    5) Play‑test (F12 or the green play button). The script will export PNG(s)
-      to the OUTPUT_DIR folder inside your project, then exit.
+      to a created folder labeled "MapExports" and then shur down.
 
  HOW TO RUN (replace the contents of "Main" temporarily with this):
 
