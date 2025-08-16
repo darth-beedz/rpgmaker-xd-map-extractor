@@ -1,5 +1,3 @@
-
-===============================================================================
  ★ RPG Maker XP - High-Detail Map Exporter (Tilemap Stitcher)
      Version: 1.1  (RGSS1 / RPG Maker XP)
      Author: darth-beedz with ChatGPT (GPT-5 Thinking)
